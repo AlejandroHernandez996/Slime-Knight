@@ -1,0 +1,33 @@
+World mechanics:
+	
+	Starts off with 3 different worlds
+		-Forest World
+		-Desert World
+		-Castle World
+	Forest world is starting area
+	Desert world unlocks after a certain level
+	Castle World unlocks after certain level
+	
+	As you level up so worlds
+	Leveled up worlds have stronger enmies better drops and adds monsters
+	
+	Random Events can happen while in a world
+	
+	Once world reaches max level you can fight its boss
+	
+	More worlds will be added on later
+
+	
+	World Menu
+	
+	Forest
+	Desert
+	Castle
+	Back
+	
+	Forest Menu
+	
+	Enter
+	Explore forest (Requires coins)
+	Back
+

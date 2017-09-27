@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3751b35348453ca4ca0f66f50b9d358e
+timeCreated: 1502090528
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tile: {instanceID: 0}
+  - wallTile: {instanceID: 0}
+  - player: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  - chest: {fileID: 4057043731766228, guid: 805f5b0e3d16dba40b45b1a5e57b3dbb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

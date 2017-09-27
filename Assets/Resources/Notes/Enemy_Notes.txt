@@ -1,0 +1,14 @@
+Enemy Ideas:
+
+Flying slime:
+	Swoop down at you when close
+	Drops slime at you
+Charging slime:
+	When close enough it charges
+	Cannot be killed
+Knight Slime:
+	Has a sword swings at you
+	
+Wizard Slime:
+	Fire wizard shoots fireballs
+

@@ -1,0 +1,10 @@
+Check list to finish
+
+Finish map scene
+
+Make 2 Enemies for each world
+
+Make 1 boss 
+
+Make random generator better
+
